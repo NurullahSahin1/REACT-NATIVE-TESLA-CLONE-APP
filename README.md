@@ -10,5 +10,5 @@ This is a new [**React Native**](https://reactnative.dev) project, bootstrapped 
 
 <p>Project View</p>
 
-![]('2024-03-30-00.50.49.gif')
+![](project-view.gif)
 
